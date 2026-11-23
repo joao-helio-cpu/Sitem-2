@@ -1,0 +1,18 @@
+{
+  "usuarios": {
+    "maria": {
+      "senha": "123456",
+      "nome": "Maria"
+    }
+  },
+  "modelos": [
+    {
+      "nome": "Confirmação de consulta",
+      "texto": "Olá, [nome]! Sua consulta na Casa Rosa é [especialidade], dia [data] às [hora]. Você consegue confirmar presença?"
+    },
+    {
+      "nome": "Lembrete de consulta",
+      "texto": "Olá, [nome]! Lembrando da sua consulta de [especialidade] na Casa Rosa, dia [data] às [hora]."
+    }
+  ]
+}
